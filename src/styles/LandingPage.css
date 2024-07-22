@@ -1,0 +1,16 @@
+.landing-page{
+  background-color: bisque;
+  padding-top: 128px;
+  padding-bottom: 124px;
+  padding-left: 72px;
+  padding-right: 72px;
+}
+
+.landing-page > h1{
+  text-align: center;
+  font-size: 124px;
+}
+.landing-page > p{
+  text-align: center;
+  font-size: 64px;
+}
